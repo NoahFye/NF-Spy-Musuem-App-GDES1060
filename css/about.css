@@ -1,0 +1,138 @@
+.grid-container {
+  padding: 0 1rem;
+}
+
+.reveal {
+  background-color: black;
+}
+
+.reveal .grid-container {
+  height: 100%;
+}
+
+.reveal .grid-x {
+  height: 100%;
+}
+
+.reveal .cell {
+  margin: auto;
+}
+
+.reveal a {
+  color: white;
+  font-size: 1.5rem;
+  font-family: interstate, sans-serif;
+
+
+}
+
+body { 
+  background-color: black; 
+
+}
+
+.hero1 h1 {
+color: white;
+font-family: interstate, sans-serif;
+font-weight: 700;
+font-style: normal; 
+margin-bottom: 1rem;
+margin-top: 1rem;
+font-size: 16px;
+}
+
+.hero1paragraph h2 {
+  color: white;
+  font-family: interstate, sans-serif;
+font-weight: 700;
+font-style: normal; 
+margin-bottom: 1rem;
+margin-top: 1rem;
+font-size: 16px;
+}
+
+.hero2 h2 {color: white;
+  font-family: interstate, sans-serif;
+font-weight: 700;
+font-style: normal; 
+margin-bottom: 1rem;
+margin-top: 1rem;
+font-size: 16px;
+}
+
+.hero2 h1 {color: white;
+  font-family: interstate, sans-serif;
+font-weight: 700;
+font-style: normal; 
+margin-bottom: 1rem;
+margin-top: 1rem;
+font-size: 16px;
+}
+
+
+
+.hero3 h1 {
+  color: white;
+  font-family: interstate, sans-serif;
+font-weight: 700;
+font-style: normal; 
+margin-bottom: 1rem;
+margin-top: 1rem;
+font-size: 16px;
+}
+
+.hero3 h2 {
+color: white;
+  font-family: interstate, sans-serif;
+font-weight: 700;
+font-style: normal; 
+margin-bottom: 1rem;
+margin-top: 1rem;
+font-size: 16px;
+}
+
+
+.header .logo {
+  display: block;
+  margin-left: auto;
+  color: black;
+
+}
+
+header .fas {
+  color: black;
+  font-size: 1.5rem;
+  vertical-align: center;
+}
+
+#main-menu nav { display: flex;
+     height: 100%;
+}
+
+
+#main-menu ul { 
+
+  margin: auto 0; padding: 0; list-style: none;
+  text-align: left;
+}
+
+.hero1 img 
+
+.hero1 h3{
+  font-family: interstate, sans-serif;
+font-weight: 900;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+border: 2px solid white;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  color-rendering: round;
+  font-size: 15px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}

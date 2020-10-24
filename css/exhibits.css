@@ -1,0 +1,298 @@
+body {background-color: black; 
+
+}
+
+.header .logo {
+  display: block;
+  margin-left: auto;
+  color: black;
+
+}
+
+header .fas {
+  color: black;
+  font-size: 1.5rem;
+  vertical-align: center;
+}
+
+#main-menu nav { display: flex;
+     height: 100%;
+}
+
+
+#main-menu ul { 
+
+  margin: auto 0; padding: 0; list-style: none;
+  text-align: left;
+}
+
+.intro .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.intro h1 {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+
+.hero1 .content {
+  position: relative;
+}
+
+.hero1 p {
+color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: absolute;
+transform: translate(-50%,-50%);
+
+}
+
+.hero2 p {
+color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: absolute;
+transform: translate(-50%,-50%);
+
+}
+
+.hero3 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero3 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+.hero4 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero4 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+.hero5 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero5 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+
+.hero6 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero6 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+.hero7 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero7 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+.hero8 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero8 img {
+  width: 100%;
+}
+
+.hero8 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+.hero9 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero9 img {
+  width: 100%;
+}
+
+.hero9 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+.hero10 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero10 img {
+  width: 100%;
+}
+
+.hero10 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+.hero11 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.hero11 img {
+  width: 100%;
+}
+
+.hero11 p {color: white;
+font-family: interstate-condensed, sans-serif;
+font-weight: 900;
+font-style: normal;
+margin-top: 0rem;
+margin-bottom: 0rem;
+text-align: center;
+font-size: 60px;
+position: relative;
+}
+
+
+
+
+
+
+footer p {
+
+		font-family: interstate, sans-serif;
+font-weight: 300;
+  color: white;
+  font-size: 11px;
+  text-align: center;
+
+
+}
+
+.footericons {
+text-align: center;
+letter-spacing: 1rem;
+
+
+
+}
+
+
+
+
+
+
+
